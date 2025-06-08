@@ -1,4 +1,4 @@
-# PRODIGY_WD_02 - Pixel Manipulation for Image Encryption
+# PRODIGY_CS_02 - Pixel Manipulation for Image Encryption
 
 ## 🔐 Description
 This tool demonstrates a basic encryption technique using pixel-level manipulation on images. It uses a simple XOR cipher to allow both encryption and decryption using the same key.
